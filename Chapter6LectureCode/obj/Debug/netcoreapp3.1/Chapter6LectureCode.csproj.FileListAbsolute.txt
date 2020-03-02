@@ -1,0 +1,2 @@
+C:\Users\hwils\Desktop\IT242\Chapter6LectureCode\Chapter6LectureCode\Chapter6LectureCode\obj\Debug\netcoreapp3.1\Chapter6LectureCode.AssemblyInfoInputs.cache
+C:\Users\hwils\Desktop\IT242\Chapter6LectureCode\Chapter6LectureCode\Chapter6LectureCode\obj\Debug\netcoreapp3.1\Chapter6LectureCode.AssemblyInfo.cs
